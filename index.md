@@ -31,8 +31,13 @@ Na Regrubeis, somos especializados na criação de **websites simples e acessív
    - Criação do layout e conteúdo de forma personalizada.
    - Entrega rápida e orientações de uso.
 
+<<<<<<< HEAD
 4. **Custo-Benefício Garantido**  
    Nossos serviços são planejados para ser acessíveis, sem abrir mão da qualidade. Temos **pacotes de preços transparentes** e sem surpresas, permitindo que você invista no seu negócio com confiança.
+=======
+
+## Jekyll 
+>>>>>>> 777ad8d49b080213143754ac337072e8201a33b9
 
 ---
 
@@ -51,4 +56,21 @@ A Regrubeis está aqui para ser sua parceira digital! Compreendemos a rotina e a
 
 ---
 
+<<<<<<< HEAD
 **Entre em contato conosco e descubra como podemos ajudar você a fortalecer sua presença online!**
+=======
+### RoadMap
+
+ * Integração Whatsapp;
+ * Integração FB e Insta;
+ * BlueSky Automation;
+
+***
+
+
+
+
+### Support or Contact
+
+A Organização Regrubeis está presente no progresso [Social Synapsis](https://www.regrubeis.com/) entre em contato conosco [contact support](https://www.regrubeis.com/contact) e te ajudaremos a encontrar todas as informações sobre nós.
+>>>>>>> 777ad8d49b080213143754ac337072e8201a33b9
