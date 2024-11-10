@@ -1,53 +1,54 @@
-# Welcome to Regrubeis.com
 
-A organização regrubeis tem por objetivos disseminar o conhecimento e a educação em todas as suas formas no universo da tecnologia e da programação. 
+### **Regrubeis**  
+**Sites Simples e Eficientes para Profissionais Autônomos**
 
-Através da integração da comunicação e dos incentivos proporcionados pelos membros da organização e seus colaboradores criamos uma cadeia de relações que viabilizam casos de projetos reais envolvendo a educação e o desenvolvimento de diversas áreas de conhecimento dentro desse universo.
+#### **Por que um site para você, profissional autônomo?**  
+Como profissional autônomo – advogado, psicólogo, nutricionista, terapeuta ou coach – você sabe da importância de uma presença online que transmita credibilidade e confiança. Um site funcional, atraente e bem construído pode ser o diferencial para atrair novos clientes, facilitar o contato e demonstrar seu profissionalismo.
 
-Para isso o github, ferramenta gratuíta que permite a criação desses projetos gerenciáveis por versão, versionamento de projetos e muito mais.
+---
 
+### **Quem Somos**
 
-## Regrubeis - A Social Synapsis
+Na Regrubeis, somos especializados na criação de **websites simples e acessíveis**, feitos sob medida para atender às necessidades de profissionais autônomos. Entendemos que seu tempo é precioso e que você busca praticidade e custo-benefício para expandir sua visibilidade. Por isso, nosso foco é construir sites que sejam rápidos, eficientes e que projetem uma imagem profissional.
 
-A ideia do projeto **Social Synapsis** nasceu junto com a Regrubeis como uma ideia de desenvolvimento social e econômico com base no conhecimento e interesse de pessoas físicas no desenvolvimento de um projeto misto, de interesse social, econômico e comercial tendo como base a expansão do conhecimento das diversas áreas envolvidas no desenvolvimento dos projetos desenvolvidos pela **Regrubeis**, com a inserção e envolvimento amplo de elementos integrantes das partes, ambientes, corporações ou comunidades desses projetos. 
+---
 
-***
+### **O Que Oferecemos**
 
-## Uma introdução ao método de ligação social sináptico.
+1. **Design Simples e Profissional**  
+   Criamos sites visualmente agradáveis e organizados, com foco nas informações que realmente importam para seus clientes. Nossos designs são pensados para transmitir confiança, credibilidade e facilidade de uso.
 
-Todos os casos de sucesso são baseados em relações de confiança mutua, históricamente através de uma terceira parte até os dias de hoje. A criação de redes descentralisadas porporciona uma experiência única em todos os tempos para a criação de _redes de relações de confiança mais inteligentes_, a qual chamamos de **Social Synapsis**.
+2. **Funcionalidades Essenciais**  
+   - **Página Inicial**: Uma visão geral sobre você e seus serviços, com uma mensagem clara e objetiva.
+   - **Sobre Mim**: Uma seção que apresenta suas qualificações, experiência e especializações.
+   - **Serviços**: Descrição detalhada dos serviços que você oferece, seja atendimento presencial ou online.
+   - **Contato**: Formulários de contato simplificados, integração com WhatsApp e link para localização (Google Maps).
+   - **Blog** (Opcional): Para compartilhar artigos, dicas e novidades, fortalecendo seu nome como referência na área.
 
-***
+3. **Processo Rápido e Descomplicado**  
+   Entendemos que você busca facilidade! Nosso processo é simples e inclui:
+   - Reunião inicial para entender suas necessidades.
+   - Criação do layout e conteúdo de forma personalizada.
+   - Entrega rápida e orientações de uso.
 
-<<<<<<< HEAD
-=======
-## Jekyll 
+4. **Custo-Benefício Garantido**  
+   Nossos serviços são planejados para ser acessíveis, sem abrir mão da qualidade. Temos **pacotes de preços transparentes** e sem surpresas, permitindo que você invista no seu negócio com confiança.
 
-O Jekyll é um programa gerador de sites integrado ao Github. Com eles é possível criar sites exclusivos hospedados gratuitamente com certificado SSL e personalizado com a compra de um domínio internacional.
+---
 
-Outras funcionalidades integradas ao site gratuitamente:
+### **Vantagens do Nosso Serviço**
 
-Formulário de contato: Todas as mensagens e informações são encaminhadas para e-mail pessoal (ex: meuemail@gmail.com)
+- **Presença Online Imediata**: Chegue até o seu público de forma direta e profissional.
+- **Credibilidade e Confiança**: Um site bem estruturado ajuda seus clientes a confiar no seu trabalho.
+- **Praticidade e Eficiência**: Não há necessidade de atualizações frequentes ou manutenção complexa. 
+- **Apoio ao Cliente**: Estamos à disposição para ajudar com dúvidas e orientar para o uso da plataforma.
 
-Google-analytics: Ferramenta de acompanhamento que mede o trafego do site e gera relatorios mensais.
+---
 
-Outras pagas:
+### **Nosso Compromisso com Profissionais Autônomos**
 
-Custom Domain: Domínio internacional www.meusite.com (aprox. 10USD$/ano);
+A Regrubeis está aqui para ser sua parceira digital! Compreendemos a rotina e as necessidades de profissionais autônomos e acreditamos que **um bom site não precisa ser complexo ou caro**. Nosso objetivo é fornecer soluções digitais de qualidade que realmente fazem a diferença para o seu negócio, deixando você livre para focar no que faz de melhor.
 
-Custom e-mail: meunome@meusite.com (aprox. 4USD$/mês);
+---
 
-### RoadMap
-
- * Integração Whatsapp;
- * Integração FB e Insta;
- * BlueSky Automation;
-
-***
-
->>>>>>> main
-
-
-### Support or Contact
-
-A Organização Regrubeis está presente no progresso [Social Synapsis](https://www.regrubeis.com/) entre em contato conosco [contact support](https://www.regrubeis.com/contact) e te ajudaremos a encontrar todas as informações sobre nós.
+**Entre em contato conosco e descubra como podemos ajudar você a fortalecer sua presença online!**
